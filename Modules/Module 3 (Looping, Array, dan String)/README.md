@@ -116,7 +116,3 @@ namespace Switch
 2. **`case 1:`**: If `number == 1`, the code immediately following this line executes.
 3. **`break;`**: Crucial keyword. It tells the program to stop executing the switch block. Without it, C# will give a compile error (unlike C/C++ which "falls through").
 4. **`default:`**: This acts like the final `else`. It catches any value that didn't match the specific cases above (e.g., if the user enters 99).
-
-```
-
-```
